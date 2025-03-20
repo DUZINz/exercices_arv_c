@@ -1,2 +1,3 @@
-/debug.log
-*/output
+#ignore all logs
+*.log
+output/
